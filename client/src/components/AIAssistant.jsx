@@ -13,7 +13,7 @@ import {
 
 const API_URL =
   import.meta.env.VITE_API_URL ||
-  "https://pratyush-portfolio-rsgl.onrender.com/api/ai/chat";
+  "https://portfolio-4snb.onrender.com/api/ai/chat";
 
 const SUGGESTED_QUESTIONS = [
   { text: "What projects has Pratyush built?", icon: FolderOpen },

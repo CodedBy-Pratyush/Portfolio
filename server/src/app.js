@@ -9,7 +9,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://pratyush-portfolio-khaki.vercel.app",
+    origin: "portfolio-one-red-2av267m7qb.vercel.app",
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   }),
