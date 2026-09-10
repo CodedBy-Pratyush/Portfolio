@@ -9,7 +9,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "portfolio-one-red-2av267m7qb.vercel.app",
+    origin: "https://portfolio-git-main-codedby-pratyushs-projects.vercel.app/",
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   }),
